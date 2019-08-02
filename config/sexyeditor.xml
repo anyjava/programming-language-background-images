@@ -1,0 +1,162 @@
+<application>
+  <component name="SexyEditor">
+    <option name="configs">
+      <list>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.gradle" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/gradle.png" />
+            </array>
+          </option>
+          <option name="name" value="gradle" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.md" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/markdown.png" />
+            </array>
+          </option>
+          <option name="name" value="markdown" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.json" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/json.png" />
+            </array>
+          </option>
+          <option name="name" value="json" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+  
+             <option name="editorGroup" value="*.js" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/javascript.png" />
+            </array>
+          </option>
+          <option name="name" value="javascript" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.xml" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images
+/images/xml.png" />
+            </array>
+          </option>
+          <option name="name" value="xml" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.yml" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/yaml.png" />
+            </array>
+          </option>
+          <option name="name" value="yml" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.groovy" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/groovy.png" />
+            </array>
+          </option>
+          <option name="name" value="groovy" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.sql" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/sql.png" />
+            </array>
+          </option>
+          <option name="name" value="sql" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+
+     <option name="editorGroup" value="*.java" />
+  <option name="fileNames">
+    <array>
+      <option value="MYPATH/programming-language-background-images/images/java.png" />
+    </array>
+  </option>
+  <option name="name" value="java" />
+  <option name="position" value="8" />
+</BackgroundConfiguration>
+<BackgroundConfiguration>
+  <option name="editorGroup" value="*.cpp" />
+  <option name="fileNames">
+    <array>
+      <option value="MYPATH/programming-language-background-images/images/c-plus-plus.png" />
+    </array>
+  </option>
+  <option name="name" value="cpp" />
+  <option name="position" value="8" />
+</BackgroundConfiguration>
+<BackgroundConfiguration>
+  <option name="editorGroup" value="*.c" />
+  <option name="fileNames">
+    <array>
+      <option value="MYPATH/programming-language-background-images/images/c.png" />
+    </array>
+  </option>
+  <option name="name" value="c" />
+  <option name="position" value="8" />
+</BackgroundConfiguration>
+<BackgroundConfiguration>
+  <option name="editorGroup" value="*.css" />
+  <option name="fileNames">
+    <array>
+      <option value="MYPATH/programming-language-background-images/images/css.png" />
+    </array>
+  </option>
+  <option name="name" value="css" />
+  <option name="position" value="8" />
+</BackgroundConfiguration>
+<BackgroundConfiguration>
+  <option name="editorGroup" value="Dockerfile" />
+  <option name="fileNames">
+    <array>
+      <option value="MYPATH/programming-language-background-images/images/docker.png" />
+    </array>
+  </option>
+  <option name="name" value="docker" />
+  <option name="position" value="8" />
+</BackgroundConfiguration>
+<BackgroundConfiguration>
+<option name="editorGroup" value="*.html" />
+
+             <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/html.png" />
+            </array>
+          </option>
+          <option name="name" value="html" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+        <BackgroundConfiguration>
+          <option name="editorGroup" value="*.sh" />
+          <option name="fileNames">
+            <array>
+              <option value="MYPATH/programming-language-background-images/images/shellscript.png" />
+            </array>
+          </option>
+          <option name="name" value="shellscript" />
+          <option name="position" value="8" />
+        </BackgroundConfiguration>
+      </list>
+    </option>
+  </component>
+</application>
