@@ -8,7 +8,11 @@ IntelliJ IDEA [Sexy Editor](https://github.com/igorspasic/idea-sexyeditor) Plugi
 
 ## IntelliJ 설정
 
-* 해당 repository 에 있는 sexyeditor.xml 파일을 아래 경로에 복사한다.
+* 해당 repository 에 있는 sexyeditor.xml 파일을 아래 경로에 복사한다. 2020.03 기준
+```
+Library/Application\ Support/JetBrains/IntelliJIdea2020.3/options/sexyeditor.xml
+```
+* 해당 repository 에 있는 sexyeditor.xml 파일을 아래 경로에 복사한다. 
 ```
 ~/Library/Preferences/IntelliJIdea2019.2/options
 ```
